@@ -1,0 +1,10 @@
+.size {
+    height: 350px;
+    width: 350px;
+}
+#main {
+    margin-bottom: 70px;
+}
+body {
+    background-image: linear-gradient(to top,deepskyblue,blue,#2E5090,purple,violet, pink)
+}
